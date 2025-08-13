@@ -1,3 +1,5 @@
+Objetivo: Projeto feito para aprendizagem e treinamento, ainda em desenvolvimento e testes.
+
 # 🚑 Checklist Ambulância
 
 Sistema de checklist para ambulâncias, com autenticação de usuários, cadastro e gerenciamento de ambulâncias, e histórico de checklists.
